@@ -4,11 +4,10 @@
 
 #include <stdio.h>
  
-#include <stdio.h>
- 
 int main()
 {
-   int a[10],i,sum;
+   int sum,a[10],i,n;
+  
    printf("Enter number of elements in array and the array elements");
    scanf("%d", &n);
  
@@ -17,9 +16,9 @@ int main()
    for (i = 0; i < n; i++)
    {
       scanf("%d", &a[i]);
-      sum=sum+a[]; 
+      sum=sum+a[i]; 
    }
- printf("Sum of elements=%d", );
+ printf("Sum of elements %d", sum);
  
   return 0;
 }
