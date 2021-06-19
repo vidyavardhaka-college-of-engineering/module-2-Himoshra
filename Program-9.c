@@ -24,11 +24,11 @@ int main()
     {
       //printf("%d is present at location %d", search, c+1);
       printf("%d",c+1);
-      break;
+     break;
     }
   }
   if (c == n)
-    printf("%d is not present in the array", );
-
+{  printf("%d is not present in the array", search);
+}
   return 0;
 }
