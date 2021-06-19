@@ -5,7 +5,8 @@
 #include <stdio.h>
  
 int main()
-{  int sum, i, n, a[10];
+{  int sum, i, n;
+int a[10];
    //int sum;
   
   // printf("Enter number of elements in array and the array elements");
