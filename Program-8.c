@@ -12,16 +12,12 @@ int main(){
   scanf("%d",&key);
   
     for(i=0;i<n;i++){
-  if(key==a[]) //missing code
+  if(key==a[i]) //missing code
   {
     //flag=1;
     c++;
   }
     }
    printf("The number of times the  key element  is repeated  is %d",c);//missing code
-  
-    
-    return(0);
+   return(0);
 }
-
-
