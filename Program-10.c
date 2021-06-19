@@ -32,7 +32,7 @@ int main()
         }
     }
 
-    printf("The largest and smallest elements of the array are %d and  %d", large, small);
+    printf("The largest and smallest elements are %d and %d", large, small);
         return 0;
 }
 
